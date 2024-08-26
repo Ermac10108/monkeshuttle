@@ -1,0 +1,881 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/open/space/basic,
+/area/space)
+"b" = (
+/obj/structure/closet,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"c" = (
+/obj/machinery/door/airlock/command/glass,
+/turf/open/floor/mineral/titanium/tiled,
+/area/space)
+"d" = (
+/obj/machinery/light/warm/dim/directional/east,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"f" = (
+/obj/structure/closet,
+/obj/item/clothing/under/sol_emt,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"g" = (
+/obj/structure/table/reinforced,
+/obj/machinery/computer/pod/old{
+	desc = "An old AI interface.";
+	name = "MU/TH/UR 4000 Terminal"
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"h" = (
+/obj/structure/sign/warning/yes_smoking/circle/directional/north,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"i" = (
+/obj/structure/closet,
+/obj/item/clothing/suit/armor/vest/marine/sulaco,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"j" = (
+/obj/structure/closet,
+/obj/item/clothing/shoes/jackboots,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"k" = (
+/obj/machinery/power/apc/auto_name,
+/turf/closed/wall/r_wall,
+/area/space)
+"l" = (
+/obj/structure/lattice,
+/obj/structure/sign/warning/vacuum/directional/north,
+/turf/open/space/basic,
+/area/space)
+"m" = (
+/obj/structure/sign/departments/drop/directional/south,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"n" = (
+/obj/structure/closet,
+/obj/item/clothing/under/sol_peacekeeper,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"o" = (
+/turf/closed/wall/r_wall,
+/area/space)
+"q" = (
+/obj/structure/chair/comfy/shuttle{
+	name = "Crash Couch";
+	desc = "A padded seat with reinforced buckles, for hard landings."
+	},
+/obj/effect/turf_decal/stripes/red/end,
+/obj/machinery/light/warm/dim/directional/north,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"r" = (
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/space/basic,
+/area/space)
+"s" = (
+/obj/machinery/computer/old{
+	name = "Decrepit Terminal";
+	desc = "Some kind of old terminal. Age has completely shrouded its old use."
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"t" = (
+/obj/machinery/power/shuttle_engine/large,
+/turf/open/floor/plating,
+/area/space)
+"u" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 4;
+	name = "Crash Couch";
+	desc = "A padded seat with reinforced buckles, for hard landings."
+	},
+/obj/effect/turf_decal/stripes/red/box,
+/turf/open/floor/mineral/titanium/tiled,
+/area/space)
+"x" = (
+/obj/structure/cable,
+/obj/machinery/light/warm/dim/directional/west,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"y" = (
+/obj/structure/table/reinforced,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"z" = (
+/turf/open/floor/plating,
+/area/space)
+"A" = (
+/obj/structure/lattice,
+/turf/open/space/basic,
+/area/space)
+"C" = (
+/obj/structure/marker_beacon/burgundy,
+/turf/open/floor/plating,
+/area/space)
+"D" = (
+/turf/open/floor/mineral/titanium/tiled,
+/area/space)
+"E" = (
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"F" = (
+/obj/machinery/light/warm/dim/directional/south,
+/turf/open/floor/mineral/titanium/tiled,
+/area/space)
+"G" = (
+/obj/structure/marker_beacon/jade,
+/turf/open/floor/plating,
+/area/space)
+"I" = (
+/obj/machinery/power/terminal{
+	dir = 1
+	},
+/obj/structure/cable,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"L" = (
+/obj/machinery/button{
+	pixel_x = 5;
+	pixel_y = 9
+	},
+/turf/closed/wall/r_wall,
+/area/space)
+"N" = (
+/obj/machinery/door/airlock/command/glass,
+/obj/structure/cable,
+/turf/open/floor/mineral/titanium/tiled,
+/area/space)
+"P" = (
+/obj/machinery/light/warm/dim/directional/west,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"Q" = (
+/obj/machinery/door/poddoor/shutters/preopen{
+	id_tag = ds_door
+	},
+/turf/open/floor/plating,
+/area/space)
+"S" = (
+/obj/structure/chair/comfy/shuttle{
+	name = "Crash Couch";
+	desc = "A padded seat with reinforced buckles, for hard landings."
+	},
+/obj/effect/turf_decal/stripes/blue/end,
+/obj/machinery/light/warm/dim/directional/north,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"T" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 8;
+	name = "Crash Couch";
+	desc = "A padded seat with reinforced buckles, for hard landings."
+	},
+/obj/effect/turf_decal/stripes/blue/box,
+/obj/structure/cable,
+/turf/open/floor/mineral/titanium/tiled,
+/area/space)
+"U" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 1
+	},
+/obj/structure/cable,
+/turf/open/floor/mineral/titanium/tiled,
+/area/space)
+"W" = (
+/obj/structure/cable,
+/turf/open/floor/mineral/titanium/tiled,
+/area/space)
+"X" = (
+/obj/machinery/power/terminal{
+	dir = 8
+	},
+/obj/structure/cable,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"Z" = (
+/obj/machinery/power/port_gen/pacman{
+	name = "P.A.C.M.A.N.-type portable generator"
+	},
+/obj/structure/cable,
+/obj/structure/sign/departments/drop/directional/south,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+
+(1,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(2,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(3,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(4,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(5,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(6,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+A
+A
+A
+A
+G
+a
+a
+a
+"}
+(7,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+A
+a
+a
+a
+a
+a
+"}
+(8,1,1) = {"
+a
+a
+a
+a
+a
+G
+A
+A
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+z
+t
+a
+a
+a
+"}
+(9,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+o
+E
+P
+j
+n
+i
+b
+b
+b
+x
+Z
+o
+z
+z
+a
+a
+a
+"}
+(10,1,1) = {"
+a
+a
+a
+a
+o
+o
+k
+o
+o
+h
+D
+u
+u
+u
+u
+u
+u
+W
+F
+L
+A
+a
+a
+a
+a
+"}
+(11,1,1) = {"
+a
+a
+a
+a
+r
+g
+X
+P
+o
+q
+D
+D
+D
+D
+D
+D
+D
+W
+D
+Q
+A
+a
+a
+a
+a
+"}
+(12,1,1) = {"
+a
+a
+a
+a
+r
+s
+U
+D
+c
+D
+D
+D
+D
+D
+D
+D
+D
+W
+D
+Q
+A
+a
+a
+a
+a
+"}
+(13,1,1) = {"
+a
+a
+a
+a
+r
+s
+U
+W
+N
+W
+W
+W
+W
+W
+W
+W
+W
+W
+D
+Q
+A
+a
+a
+a
+a
+"}
+(14,1,1) = {"
+a
+a
+a
+a
+r
+y
+E
+d
+o
+S
+D
+D
+D
+D
+D
+D
+D
+W
+D
+Q
+A
+a
+a
+a
+a
+"}
+(15,1,1) = {"
+a
+a
+a
+a
+o
+o
+o
+o
+k
+I
+W
+T
+T
+T
+T
+T
+T
+W
+F
+o
+l
+a
+a
+a
+a
+"}
+(16,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+o
+E
+d
+b
+f
+b
+b
+n
+j
+d
+m
+o
+z
+t
+a
+a
+a
+"}
+(17,1,1) = {"
+a
+a
+a
+a
+a
+C
+A
+A
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+z
+z
+a
+a
+a
+"}
+(18,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+A
+a
+a
+a
+a
+a
+"}
+(19,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+A
+A
+A
+A
+C
+a
+a
+a
+"}
+(20,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(21,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(22,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(23,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(24,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(25,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
